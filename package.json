@@ -1,0 +1,25 @@
+{
+  "name": "groovylist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start":"http-server -a127.0.0.1 -p7000 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockarena/groovyList.git"
+  },
+  "keywords": [
+    "list"
+  ],
+  "author": "Boris Grinshpun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockarena/groovyList/issues"
+  },
+  "homepage": "https://github.com/rockarena/groovyList#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
