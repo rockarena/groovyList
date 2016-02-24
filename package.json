@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start":"http-server -a127.0.0.1 -p7000 -o"
+    "start":"./node_modules/http-server/bin/http-server -a127.0.0.1 -p7000 -o"
   },
   "repository": {
     "type": "git",
